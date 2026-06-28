@@ -1,0 +1,36 @@
+{
+  "version": "2.0",
+  "dataset_id": "on006317",
+  "source": "openneuro",
+  "source_id": "ds006317",
+  "title": "Chisco-2.0",
+  "authors": {
+    "Zihan Zhang": {},
+    "Yu Bao": {},
+    "Tianyi Jiang": {},
+    "Xiao Ding": {},
+    "Xia Liang": {},
+    "Juntong Du": {},
+    "Yi Zhao": {},
+    "Kai Xiong": {},
+    "Bing Qin": {},
+    "Ting Liu": {}
+  },
+  "license": "CC0",
+  "dataset_type": "raw",
+  "related_identifiers": [
+    {
+      "identifier": "10.18112/openneuro.ds006317.v1.1.1",
+      "identifier_type": "DOI",
+      "relation_type": "IsIdenticalTo"
+    }
+  ],
+  "pipeline_stage": "seeded",
+  "bids_version": "1.10.0",
+  "recording_modality": [
+    "eeg"
+  ],
+  "datatypes": [
+    "eeg"
+  ]
+}
