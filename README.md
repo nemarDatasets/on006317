@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on006317-blue)](https://doi.org/10.82901/nemar.on006317)
+
 This dataset is a imagined speech dataset with two participants, identified as sub-01 to sub-02. The dataset includes raw data in edf formats. Information also can be found in https://github.com/baoyudu/COFETT .
 
 
