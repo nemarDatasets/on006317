@@ -2,7 +2,7 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Chisco-2.0",
-  "description": "Chisco-2.0 is an imagined speech EEG dataset comprising raw EDF recordings from two participants (sub-01 and sub-02). It is intended to support research into decoding imagined speech from electroencephalographic signals, providing a resource for brain-computer interface and speech neuroscience studies.",
+  "description": "Chisco-2.0 is an EEG dataset of imagined speech recorded from two participants (sub-01 and sub-02). The raw recordings are provided in EDF format and organized according to the BIDS standard. The dataset is intended to support research on decoding imagined speech from brain activity.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -29,9 +29,6 @@
     },
     {
       "term": "speech decoding"
-    },
-    {
-      "term": "electrophysiology"
     }
   ],
   "related_identifiers": [
@@ -67,7 +64,7 @@
     "eeg"
   ],
   "sizes": [
-    "56.8 GB (65 files)"
+    "52.92 GB (65 files)"
   ],
   "formats": [
     ".edf",
